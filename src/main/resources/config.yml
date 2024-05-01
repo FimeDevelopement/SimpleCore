@@ -1,0 +1,16 @@
+#############
+# SimpleCore
+# by don1x
+# with love <3
+############
+#Russian language configuration. Get english configuration on:
+# - https://www.dropbox.com/scl/fi/am2v98tx16gutt4ytc7jg/config_en.yml?rlkey=qh7x4zfgpye7cs1uowv63dfaf&st=ekqppzbz&dl=1
+
+#Версия конфига. Делайте на своё усмотрение, как хотите. Никак не влияет на работу плагина.
+config-version: 1
+
+#Сообщения
+messages:
+  no-perms: "&cНедостаточно прав! &7(&e&o{need_perm}&7)"
+  heal: "&aУспешно вылечен игрок &e{player_name}&a!"
+  feed: "&aУспешно накормлен игрок &e{player_name}&a!"

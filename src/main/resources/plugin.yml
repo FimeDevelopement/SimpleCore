@@ -2,3 +2,6 @@ name: SimpleCore
 version: '${project.version}'
 main: ru.don1x.Main
 api-version: '1.16'
+commands:
+  feed:
+  heal:
